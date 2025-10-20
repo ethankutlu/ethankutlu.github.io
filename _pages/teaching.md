@@ -3,15 +3,6 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-gallery:
-  - url: images/teaching1.jpg
-    image_path: images/teaching1.jpg
-    alt: "Coding exercise"
-    title: "Coding exercise"
-  - url: images/teaching2.jpg
-    image_path: images/teaching2.jpg
-    alt: "Lecturing in statistics class"
-    title: "Lecturing in statistics class"
 ---
 
 At the University of Iowa, I have taught various courses in the Departments of Communication Sciences and Disorders, Psychological and Brain Sciences, and Linguistics.
@@ -24,4 +15,3 @@ In other classes, such as Statistics and Experimental Methods and Psychology of 
 
 All of my classes are built on a common theme of compassion and learning through experience. I pursue this goal by continuously and reflexively updating my teaching materials based on each cohort's needs.
 
-{% include gallery id="gallery" caption="Click images to enlarge" %}
