@@ -4,11 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 gallery:
-  - url: /images/teaching1.jpg
-    image_path: /images/teaching1.jpg
+  - url: images/teaching1.jpg
     alt: "Coding exercise"
-  - url: /images/teaching2.jpg
-    image_path: /images/teaching2.jpg
+  - url: images/teaching2.jpg
     alt: "Lecturing in statistics class"
 ---
 
