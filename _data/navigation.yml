@@ -17,6 +17,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "S-Cube Lab"
+    url: https://s-cube.lab.uiowa.edu/
+    external: true
+    
  # - title: "Portfolio"
   #  url: /portfolio/
         
