@@ -19,6 +19,12 @@ main:
     
   - title: "S-Cube Lab"
     url: https://s-cube.lab.uiowa.edu/
+
+  - title: "CogSci Program"
+    url: https://cogscilang.grad.uiowa.edu/
+    
+  - title: "ROLE Collective"
+    url: https://www.rolecollective.org/
     
  # - title: "Portfolio"
   #  url: /portfolio/
