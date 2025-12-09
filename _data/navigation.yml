@@ -19,6 +19,9 @@ main:
     
   - title: "S-Cube Lab"
     url: https://s-cube.lab.uiowa.edu/
+    
+  - title: "Reflections"
+    url: https://substack.com/@letterstomytremors
 
   - title: "CogSci Program"
     url: https://cogscilang.grad.uiowa.edu/
@@ -26,8 +29,7 @@ main:
   - title: "ROLE Collective"
     url: https://www.rolecollective.org/
 
-  - title: "Reflections"
-    url: https://substack.com/@ethankutlu?
+  
     
  # - title: "Portfolio"
   #  url: /portfolio/
