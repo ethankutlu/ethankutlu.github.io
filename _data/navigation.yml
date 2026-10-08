@@ -20,8 +20,8 @@ main:
   - title: "S-Cube Lab"
     url: https://s-cube.lab.uiowa.edu/
     
-  - title: "Reflections"
-    url: https://substack.com/@ethankutlu
+ # - title: "Reflections"
+  #  url: https://substack.com/@ethankutlu
 
   - title: "CogSci Program"
     url: https://cogscilang.grad.uiowa.edu/
