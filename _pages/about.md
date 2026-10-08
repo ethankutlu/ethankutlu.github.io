@@ -14,5 +14,5 @@ I use a variety of methodologies such as eye tracking, electroencephalography, a
 
 In 2022, I co-founded the [ROLE Collective (Reframing our language experience)](https://www.rolecollective.org). This collective works towards addressing linguistic inequalities in different systems such as research and education. 
 
-You can view my <a href="/assets/files/CLAS_CV_Kutlu_Ethan.pdf" target="_blank" rel="noopener">CV here</a>.  
+You can view my <a href="/assets/files/Kutlu_CV.pdf" target="_blank" rel="noopener">CV here</a>.  
 
