@@ -12,7 +12,7 @@ My work is grounded in the perceptual and social experiences of linguistically d
 
 I use a variety of methodologies such as eye tracking, electroencephalography, and network science tools to explore the crossroads of language, cognition, and society. My work has been funded by different grant agencies such as the National Science Foundation and the National Institute of Health. I currently serve as an editorial board member for Scientific Reports and the Canadian Journal of Experimental Psycholinguistics and serve as an Associate Editor for Applied Psycholinguistics.  
 
-In 2022, I co-founded the [ROLE Collective (Reframing our language experience)](https://www.rolecollective.org). This collective works towards addressing linguistic inequalities in different systems such as research and education. 
+In 2022, I co-founded the [ROLE Collective (Reframing our language experience)](https://www.rolecollective.org). This collective works towards addressing linguistic inequalities in different systems such as research and education. In 2026, I was elected a Fellow of the Psychonomic Society. Society Fellows are recognized as members who lead independent research programs, do methodologically rigorous and theoretically driven work, and have a growing national and international reputation in the psychological sciences.
 
 You can view my <a href="/assets/files/Kutlu_CV.pdf" target="_blank" rel="noopener">CV here</a>.  
 
